@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Magnets in minecraft",
+        "name": "Magnetic Craft",
+        "uuid": "36883f2c-aa15-11e7-abc4-cec278b6b50a",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "Magnets in minecraft",
+            "type": "data",
+            "uuid": "36883874-aa15-11e7-abc4-cec278b6b50a",
+            "version": [0, 0, 1]
+        }
+    ]
+}
